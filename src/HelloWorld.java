@@ -3,5 +3,9 @@ public class HelloWorld {//class
     public static void main(String[] args){//method
         System.out.println("Hello World");//statement
         System.out.println("Try doing java, you will not regret it");
+        myRates();
+    }
+    public static void myRates(){
+        System.out.println("Change made");
     }
 }
